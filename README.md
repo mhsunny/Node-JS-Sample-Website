@@ -2,7 +2,7 @@
 This is very simple website using Nodejs serving the html pages.  How to create server and display html, images pages
 
 
-#Server.js
+# Server.js
 Create a server.js file and put the below lines. that's it!!! You can able to access all html pages by nodejs
 
 <pre>
